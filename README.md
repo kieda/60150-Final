@@ -2,5 +2,3 @@ Overlay visualization for the final peice for CMU 60150. Cellular Automaton + Mo
 
 <b>See: "example run.jpg" for an image of the simulation.</b>
 <br><br>
-
-Version v1.5, 3906 lines 
